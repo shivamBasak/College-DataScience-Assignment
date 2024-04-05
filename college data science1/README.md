@@ -1,6 +1,6 @@
 # Data Science assignment on Uttarakhand Flash Flood news dataset
 
-Brief description of your project.
+
 
 ## Dataset
 
