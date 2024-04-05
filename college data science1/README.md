@@ -4,7 +4,7 @@ Brief description of your project.
 
 ## Dataset
 
-The dataset used in this project can be found on Kaggle:
-[Dataset Name](https://www.kaggle.com/shivambasak/college-datascience-assignment)
+The dataset used in this project can be found on :
+[Kaggle Link](https://www.kaggle.com/shivambasak/college-datascience-assignment)
 
 
